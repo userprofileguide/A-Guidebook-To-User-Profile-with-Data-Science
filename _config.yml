@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: "用户画像实战指南"
+show_downloads: false
+github:
+  is_project_page: false
