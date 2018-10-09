@@ -1,0 +1,17 @@
+---
+title: "getEbayData"
+output: html_document
+author: SUN JIAXUAN
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(ebayr)
+setEbayToken("")
+search_ebay("elvis costume")
+```
+
